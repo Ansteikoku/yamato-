@@ -1,4 +1,4 @@
-const correctPassword = "groupPassword"; // グループのパスワードを設定
+const correctPassword = "2000"; // グループのパスワードを設定
 
 // パスワードの確認
 function checkPassword() {
